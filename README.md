@@ -62,13 +62,11 @@ Deep learning model for Alzheimer's disease classification using MRI scans and t
 **Tech:** Python • PyTorch • EfficientNet • Medical Imaging
 
 ---
+###  Learning Management System (LMS)
 
-### Saanjh Sahayak
+Full-stack learning platform where students can enroll in and track courses, while educators create, manage, and publish courses with secure authentication and online payments.
 
-Elderly home management system that enables staff to maintain patient health records while allowing doctors to securely access shared medical information.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB, and JWT**, featuring role-based authentication, patient management, health record tracking, and secure access control.
-
+Tech: React • Vite • Node.js • Express.js • MongoDB • Clerk • Stripe • Cloudinary • Tailwind CSS
 
 ---
 
@@ -77,6 +75,16 @@ Elderly home management system that enables staff to maintain patient health rec
 AI-powered document redaction system for detecting and anonymizing sensitive information.
 
 **Tech:** Streamlit • Hugging Face • PATE-GAN • Python
+
+---
+
+
+### Saanjh Sahayak
+
+Elderly home management system that enables staff to maintain patient health records while allowing doctors to securely access shared medical information.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, and JWT**, featuring role-based authentication, patient management, health record tracking, and secure access control.
+
 
 ---
 
