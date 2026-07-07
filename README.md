@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi there! 👋 I'm Divya Bolla
 
-<!--
-**Mounikab03/Mounikab03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer Intern
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building scalable web applications, automating software testing, and exploring AI-powered solutions. I enjoy learning new technologies and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+*  Computer Science graduate from **Keshav Memorial Engineering College**
+*  Currently learning Web Development, System Design and Generative AI**
+*  Interested in Full Stack Development, Automation, Cloud, and AI
+*  Always excited to collaborate on interesting projects and open-source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* JavaScript
+* Python
+* SQL
+* HTML
+* CSS
+
+**Frontend**
+
+* React
+* Tailwind CSS
+* Bootstrap
+
+**Backend**
+
+* Spring Boot
+* Node.js
+* Express.js
+
+**Databases**
+
+* MongoDB
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Jenkins
+
+---
+
+## 🚀 Projects
+
+### 🤖 Alzheimer's Disease Prediction
+
+Deep learning model for Alzheimer's disease classification using MRI scans and transfer learning techniques.
+
+**Tech:** Python • PyTorch • EfficientNet • Medical Imaging
+
+---
+
+### Saanjh Sahayak
+
+* Elderly home management system that enables staff to maintain patient health records while allowing doctors to securely access shared medical information.
+**Tech:** React.js, Node.js, Express.js, MongoDB, and JWT**, featuring role-based authentication, patient management, health record tracking, and secure access control.
+
+
+---
+
+###  Automated Redaction System
+
+AI-powered document redaction system for detecting and anonymizing sensitive information.
+
+**Tech:** Streamlit • Hugging Face • PATE-GAN • Python
+
+---
+
+###  ThyroLead
+
+Machine learning application for thyroid disease prediction with an interactive web interface.
+
+**Tech:** Flask • Node.js • MongoDB • Machine Learning
+
+---
+
+## 🌱 Currently Learning
+
+* React & Next.js
+* Node.js & Express
+* System Design
+* Microservices
+* Docker & Kubernetes
+* Generative AI
+* AWS
+
+---
+
+## 📈 Goals
+
+* Build scalable full-stack applications
+* Contribute to open source
+* Explore AI-powered products
+* Continuously improve as a software engineer
+
+---
+
+⭐ Thanks for visiting my profile!
