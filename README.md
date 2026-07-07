@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Divya Bolla
+# Hey there, I'm Divya.
 
 ### Software Engineer Intern
 
@@ -53,9 +53,9 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🤖 Alzheimer's Disease Prediction
+###  Alzheimer's Disease Prediction
 
 Deep learning model for Alzheimer's disease classification using MRI scans and transfer learning techniques.
 
@@ -65,7 +65,8 @@ Deep learning model for Alzheimer's disease classification using MRI scans and t
 
 ### Saanjh Sahayak
 
-* Elderly home management system that enables staff to maintain patient health records while allowing doctors to securely access shared medical information.
+Elderly home management system that enables staff to maintain patient health records while allowing doctors to securely access shared medical information.
+
 **Tech:** React.js, Node.js, Express.js, MongoDB, and JWT**, featuring role-based authentication, patient management, health record tracking, and secure access control.
 
 
@@ -87,7 +88,7 @@ Machine learning application for thyroid disease prediction with an interactive 
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * React & Next.js
 * Node.js & Express
@@ -99,7 +100,7 @@ Machine learning application for thyroid disease prediction with an interactive 
 
 ---
 
-## 📈 Goals
+##  Goals
 
 * Build scalable full-stack applications
 * Contribute to open source
@@ -108,4 +109,4 @@ Machine learning application for thyroid disease prediction with an interactive 
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
